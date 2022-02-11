@@ -1,0 +1,14 @@
+<Contacts>
+  <Id Value="1">
+    <Fio>Aksenov Ivan Urievich</Fio>
+    <TelephoneNumber>+7-777-777-77-77</TelephoneNumber>
+  </Id>
+  <Id Value="2">
+    <Fio>Nebov Anton Ivanovich</Fio>
+    <TelephoneNumber>8-900-888-99-00</TelephoneNumber>
+  </Id>
+  <Id Value="3">
+    <Fio>Ivan</Fio>
+    <TelephoneNumber>79008007060</TelephoneNumber>
+  </Id>
+</Contacts>
